@@ -6,28 +6,86 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 16 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
-- [strings](#strings) (1)
+- [*special](#special) (1)
+- [brute force](#brute-force) (4)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (11)
+- [math](#math) (4)
+- [sortings](#sortings) (1)
+- [strings](#strings) (6)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/41/A%20-%20Translation/solution.java) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/59/A%20-%20Word/solution.java) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
+| 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/1742/A%20-%20Sum/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/617/A%20-%20Elephant/solution.java) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/41/A%20-%20Translation/solution.java) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/59/A%20-%20Word/solution.java) |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ---
 
