@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 10 |
+| 27 | 10 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (20)
+- [implementation](#implementation) (21)
 - [math](#math) (6)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
@@ -71,6 +71,7 @@
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/116/A%20-%20Tram/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/200/B%20-%20Drinks/solution.java) |
+| 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
