@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 10 |
+| 32 | 10 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (24)
-- [math](#math) (7)
+- [math](#math) (8)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (7)
@@ -101,6 +101,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
+| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [Java 21](https://github.com/asbhandari012/CodeForces011/blob/HEAD/2257/B%20-%20Gigantomachy/solution.java) |
 
 ### shortest paths
 
